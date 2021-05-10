@@ -1,0 +1,53 @@
+ /* #container{
+    width: 500px;
+    height: 500px;
+    border: 1px solid grey;
+    position: relative;
+   
+    border: 2px solid black;
+  
+
+} */
+
+/* #inside{
+ 
+    width: 80px;
+    height: 80px;
+    background-color: red;
+    position: absolute;
+    left:0px;
+    top: 200px;
+}
+#inside2{
+ 
+    width: 80px;
+    height: 50px;
+    background-color: blue;
+    position: absolute;
+    left:0px;
+    top: 200px;
+}   */
+ 
+
+
+#main-div{
+    display: flex;
+}
+
+.container {
+    margin: 30px;
+    position: relative;
+    border: 2px solid rgb(226, 8, 8);
+    height: 505px;
+    width: 505px; 
+    background-color: #eea70f;
+}
+.buttons {
+    border: none;
+    border-radius: 20px;
+    background-color:  #218ac3;
+    height: 32px;
+    width: 10%;
+    font-weight: 700;
+  
+}
